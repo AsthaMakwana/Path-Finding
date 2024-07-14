@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pathfinding Algorithm Visualization
 A visualization tool for those who want to know how the algorithms actually works.
 
@@ -72,3 +73,6 @@ Contributions to this project are welcome. To contribute, follow these steps:
 Acknowledgments
 Pygame - The Pygame library used for graphics and user interface.
 Inspired by various pathfinding algorithms and maze generation techniques.
+=======
+# Path-Finding
+>>>>>>> a643cda75f2e3b75d63444fbae20782076a39b3c
